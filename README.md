@@ -1,5 +1,5 @@
 # Meet RAY. The Raydium AI Sniper Bot.
-Automatically detect high potential tokens and execute token buys before they hit the Raydium UI, leveraging optimized RPC nodes for maximum profit. Perfect for Solana blockchain enthusiasts and traders seeking automated crypto profits.
+Automatically detect high potential tokens and execute token buys before they hit the Raydium UI, leveraging optimized RPC nodes for maximum profit. Perfect for Solana blockchain enthusiasts and traders seeking automated crypto profits. A project for the Solana AI Hackathon.
 
 ![](readme/spl.png)
 
