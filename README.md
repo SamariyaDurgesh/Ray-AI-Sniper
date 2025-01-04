@@ -21,7 +21,7 @@ Depending on the speed of the RPC node, the purchase usually happens before the 
 > This is provided as is, for learning purposes.
 
 ## CONTACT
-X (Twitter): [@SolySniper](https://x.com/SolySniper) 
+X (Twitter): [@AIPhiSol](https://x.com/AIPhiSol) 
 
 ## SETUP
 To run the script you need to:
