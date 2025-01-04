@@ -1,10 +1,10 @@
-# Meet RAY. The Raydium AI Sniper Bot.
-Automatically detect high potential tokens and execute token buys before they hit the Raydium UI, leveraging optimized RPC nodes for maximum profit. Perfect for Solana blockchain enthusiasts and traders seeking automated crypto profits. A project for the Solana AI Hackathon.
+# Meet SOLY. The Solana AI Sniper Bot.
+Automatically detect high potential tokens and execute token buys, leveraging optimized RPC nodes for maximum profit. Perfect for Solana blockchain enthusiasts and traders seeking automated crypto profits. A project for the Solana AI Hackathon.
 
 ![](readme/spl.png)
 
 **Why Choose This Bot?**
-RAY is the ONLY original, cutting-edge tool for high-speed token trading on Solana. Unlike outdated or lower-quality imitators, this bot is built with the latest optimizations and features to ensure top-tier performance.
+SOLY is the ONLY original, cutting-edge tool for high-speed token trading on Solana. Unlike outdated or lower-quality imitators, this bot is built with the latest optimizations and features to ensure top-tier performance.
 
 This Bot listens to new Raydium USDC or SOL pools and buys tokens for a fixed amount in USDC/SOL.
 Depending on the speed of the RPC node, the purchase usually happens before the token is available on Raydium UI for swapping. You can run it for a few hours to check the earnings. If you want to support me, my Telegram is at the bottom. Note: Even for testing, besides using WSOL as the exchange token, it’s important to keep more SOL for transaction fees. The correct configuration is 0.9 SOL / 0.1 WSOL.
@@ -21,7 +21,7 @@ Depending on the speed of the RPC node, the purchase usually happens before the 
 > This is provided as is, for learning purposes.
 
 ## CONTACT
-X (Twitter): [@RayAISniper](https://x.com/RayAISniper) 
+X (Twitter): [@SolySniper](https://x.com/SolySniper) 
 
 ## SETUP
 To run the script you need to:
