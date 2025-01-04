@@ -1,4 +1,4 @@
-# Meet SOLY. The Solana AI Sniper Bot.
+# SOLY. The Solana AI Sniper Bot.
 Automatically detect high potential tokens and execute token buys, leveraging optimized RPC nodes for maximum profit. Perfect for Solana blockchain enthusiasts and traders seeking automated crypto profits. A project for the Solana AI Hackathon.
 
 ![](readme/spl.png)
